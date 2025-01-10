@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /login
+Sitemap:https://kunalahmedkumar97.github.ioGJQ/sitemap_index.txt
+Sitemap:https://kunalahmedkumar97.github.ioQRU/sitemap_index.txt
+Sitemap:https://kunalahmedkumar97.github.ioUQG/sitemap_index.txt
